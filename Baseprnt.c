@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <ctype.h>
+#include <functions.h>
 
 void main(void)
 {
